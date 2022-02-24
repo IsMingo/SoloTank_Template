@@ -56,7 +56,7 @@ public class Tank : BaseController
 
     public void GetMouseClic()
     {
-        
+        // Debug.Log("Test");
     }
 
     
